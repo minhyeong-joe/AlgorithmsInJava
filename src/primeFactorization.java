@@ -1,5 +1,3 @@
-package primeFactorization;
-
 import java.util.Scanner;
 
 public class primeFactorization {

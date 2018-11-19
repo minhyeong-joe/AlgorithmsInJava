@@ -1,4 +1,3 @@
-package fibonacciSequence;
 
 import java.util.Scanner;
 

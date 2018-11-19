@@ -1,4 +1,3 @@
-package changeReturn;
 
 import java.util.Scanner;
 
