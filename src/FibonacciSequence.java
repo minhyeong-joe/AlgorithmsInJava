@@ -1,3 +1,6 @@
+// Design a program to print out all fibonacci sequence up to Nth term.
+// fibonacci sequence begins with 1, 1 followed by the sum of two previous terms.
+// ex) 1 1 2 3 5 8 13 21 34 55 ...
 
 import java.util.Scanner;
 

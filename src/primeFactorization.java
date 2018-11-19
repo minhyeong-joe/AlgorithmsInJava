@@ -1,3 +1,6 @@
+// Write a function that prints out all the prime factors of a given number.
+// prime factors are the smallest possible prime factors that composite the given number.
+
 import java.util.Scanner;
 
 public class primeFactorization {

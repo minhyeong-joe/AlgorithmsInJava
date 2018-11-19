@@ -1,3 +1,5 @@
+// Given the cost and money paid, design a program that prints out the change and the number of
+// quarters, dimes, nickels, and pennies needed for the change.
 
 import java.util.Scanner;
 

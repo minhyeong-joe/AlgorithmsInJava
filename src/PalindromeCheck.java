@@ -1,3 +1,5 @@
+// write a function to check if a word is a palindrome
+// palindrome: a word, phrase, or sequence that reads the same backward as forward
 
 import java.util.Scanner;
 
