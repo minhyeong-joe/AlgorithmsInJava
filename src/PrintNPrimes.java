@@ -10,11 +10,13 @@ public class PrintNPrimes {
 		}
 		
 		for(int i = 0; i < n-1; i++) {
-			int iValue = i + 2;
-			for(int j = i+1; j < n-1; j++) {
-				int jValue = j + 2;
-				if(jValue % iValue == 0) {
-					arr[j] = false;
+			if(arr[i] == true) {				
+				int iValue = i + 2;
+				for(int j = i+1; j < n-1; j++) {
+					int jValue = j + 2;
+					if(jValue % iValue == 0) {
+						arr[j] = false;
+					}
 				}
 			}
 		}
